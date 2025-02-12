@@ -55,26 +55,6 @@ Features of this C++ language based project :
 
 
 
-<h2>
-INFO
-</h2>
-<footer>
-SIMPLE HOTEL MANAGEMENT SYSTEM IN C++
-
-<br>
-DEVELOPED BY The Young Programmer (TYP)
-
-<br><hr>
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO PULL AN ISSUE *****  
-
-<hr>
-***** LEAVE A COMMENT IF YOU LOVE MY WORK *****
-
-<hr>
-***** PLS FORK THIS PROJECT FOR MORE PROJECT  *****
-
-</footer>
-
 
 
 
